@@ -1,0 +1,1086 @@
+# Comprehensive Disease List
+
+## Cardiovascular Diseases
+1. Acute Coronary Syndrome
+2. Acute Myocardial Infarction
+3. Angina Pectoris
+4. Aortic Aneurysm
+5. Aortic Dissection
+6. Aortic Regurgitation
+7. Aortic Stenosis
+8. Arrhythmogenic Right Ventricular Cardiomyopathy
+9. Atrial Fibrillation
+10. Atrial Flutter
+11. Bacterial Endocarditis
+12. Bradycardia
+13. Bundle Branch Block
+14. Cardiac Tamponade
+15. Cardiogenic Shock
+16. Cardiomyopathy
+17. Chronic Heart Failure
+18. Constrictive Pericarditis
+19. Coronary Artery Disease
+20. Deep Vein Thrombosis
+21. Dilated Cardiomyopathy
+22. Essential Hypertension
+23. Heart Block
+24. Hypertensive Emergency
+25. Hypertrophic Cardiomyopathy
+26. Infective Endocarditis
+27. Long QT Syndrome
+28. Mitral Regurgitation
+29. Mitral Stenosis
+30. Myocarditis
+31. Pericardial Effusion
+32. Peripheral Arterial Disease
+33. Pulmonary Embolism
+34. Pulmonary Hypertension
+35. Raynaud's Phenomenon
+36. Rheumatic Heart Disease
+37. Secondary Hypertension
+38. Sick Sinus Syndrome
+39. Supraventricular Tachycardia
+40. Tricuspid Regurgitation
+41. Valvular Heart Disease
+42. Vasovagal Syncope
+43. Ventricular Fibrillation
+44. Ventricular Tachycardia
+45. Wolff-Parkinson-White Syndrome
+
+## Respiratory Diseases
+46. Acute Bronchitis
+47. Acute Respiratory Distress Syndrome
+48. Asbestosis
+49. Aspergillosis
+50. Asthma
+51. Bronchiectasis
+52. Chronic Bronchitis
+53. Chronic Obstructive Pulmonary Disease
+54. Cystic Fibrosis
+55. Emphysema
+56. Hypersensitivity Pneumonitis
+57. Idiopathic Pulmonary Fibrosis
+58. Legionnaires' Disease
+59. Lung Abscess
+60. Lung Cancer
+61. Pleural Effusion
+62. Pneumoconiosis
+63. Pneumonia
+64. Pneumothorax
+65. Pulmonary Edema
+66. Pulmonary Embolism
+67. Respiratory Failure
+68. Sarcoidosis
+69. Sleep Apnea
+70. Tuberculosis
+
+## Gastrointestinal Diseases
+71. Achalasia
+72. Acute Appendicitis
+73. Acute Cholecystitis
+74. Acute Hepatitis
+75. Acute Pancreatitis
+76. Barrett's Esophagus
+77. Celiac Disease
+78. Cholangitis
+79. Chronic Gastritis
+80. Chronic Hepatitis
+81. Chronic Pancreatitis
+82. Cirrhosis
+83. Crohn's Disease
+84. Diverticulitis
+85. Diverticulosis
+86. Esophageal Cancer
+87. Gastric Cancer
+88. Gastric Ulcer
+89. Gastroesophageal Reflux Disease
+90. Hepatic Encephalopathy
+91. Hepatocellular Carcinoma
+92. Inflammatory Bowel Disease
+93. Irritable Bowel Syndrome
+94. Liver Cirrhosis
+95. Pancreatic Cancer
+96. Peptic Ulcer Disease
+97. Portal Hypertension
+98. Primary Biliary Cirrhosis
+99. Primary Sclerosing Cholangitis
+100. Ulcerative Colitis
+
+## Endocrine Diseases
+101. Acromegaly
+102. Addison's Disease
+103. Conn's Syndrome
+104. Cushing's Syndrome
+105. Diabetes Insipidus
+106. Diabetes Mellitus Type 1
+107. Diabetes Mellitus Type 2
+108. Diabetic Ketoacidosis
+109. Graves' Disease
+110. Hashimoto's Thyroiditis
+111. Hyperaldosteronism
+112. Hypercalcemia
+113. Hyperparathyroidism
+114. Hyperthyroidism
+115. Hypoglycemia
+116. Hypogonadism
+117. Hypoparathyroidism
+118. Hypothyroidism
+119. Multiple Endocrine Neoplasia
+120. Pheochromocytoma
+121. Polycystic Ovary Syndrome
+122. Thyroid Cancer
+123. Thyroiditis
+
+## Neurological Diseases
+124. Alzheimer's Disease
+125. Amyotrophic Lateral Sclerosis
+126. Bell's Palsy
+127. Brain Abscess
+128. Brain Tumor
+129. Cerebral Palsy
+130. Cluster Headache
+131. Delirium
+132. Dementia
+133. Encephalitis
+134. Epilepsy
+135. Essential Tremor
+136. Guillain-Barré Syndrome
+137. Huntington's Disease
+138. Hydrocephalus
+139. Meningitis
+140. Migraine
+141. Multiple Sclerosis
+142. Myasthenia Gravis
+143. Narcolepsy
+144. Parkinson's Disease
+145. Peripheral Neuropathy
+146. Status Epilepticus
+147. Stroke
+148. Subdural Hematoma
+149. Tension Headache
+150. Transient Ischemic Attack
+
+## Musculoskeletal Diseases
+151. Ankylosing Spondylitis
+152. Carpal Tunnel Syndrome
+153. Dermatomyositis
+154. Fibromyalgia
+155. Gout
+156. Juvenile Idiopathic Arthritis
+157. Osteoarthritis
+158. Osteomyelitis
+159. Osteoporosis
+160. Polymyalgia Rheumatica
+161. Polymyositis
+162. Psoriatic Arthritis
+163. Reactive Arthritis
+164. Rheumatoid Arthritis
+165. Scleroderma
+166. Septic Arthritis
+167. Sjögren's Syndrome
+168. Systemic Lupus Erythematosus
+169. Systemic Sclerosis
+170. Temporal Arteritis
+
+## Renal Diseases
+171. Acute Kidney Injury
+172. Acute Tubular Necrosis
+173. Chronic Kidney Disease
+174. Glomerulonephritis
+175. Goodpasture's Syndrome
+176. IgA Nephropathy
+177. Kidney Stones
+178. Lupus Nephritis
+179. Minimal Change Disease
+180. Nephritic Syndrome
+181. Nephrotic Syndrome
+182. Polycystic Kidney Disease
+183. Pyelonephritis
+184. Rapidly Progressive Glomerulonephritis
+185. Renal Cell Carcinoma
+186. Renal Tubular Acidosis
+
+## Hematologic Diseases
+187. Acute Lymphoblastic Leukemia
+188. Acute Myeloid Leukemia
+189. Anemia of Chronic Disease
+190. Aplastic Anemia
+191. Chronic Lymphocytic Leukemia
+192. Chronic Myeloid Leukemia
+193. Essential Thrombocythemia
+194. Hemochromatosis
+195. Hemolytic Anemia
+196. Hemophilia
+197. Hodgkin's Lymphoma
+198. Iron Deficiency Anemia
+199. Multiple Myeloma
+200. Myelodysplastic Syndrome
+201. Non-Hodgkin's Lymphoma
+202. Polycythemia Vera
+203. Sickle Cell Disease
+204. Thalassemia
+205. Thrombocytopenia
+206. von Willebrand Disease
+
+## Infectious Diseases
+207. AIDS
+208. Bacterial Meningitis
+209. Chickenpox
+210. Cholera
+211. Dengue Fever
+212. Ebola Virus Disease
+213. Hepatitis A
+214. Hepatitis B
+215. Hepatitis C
+216. Herpes Simplex
+217. HIV Infection
+218. Infectious Mononucleosis
+219. Influenza
+220. Lyme Disease
+221. Malaria
+222. Measles
+223. Mumps
+224. Rabies
+225. Rubella
+226. Salmonellosis
+227. Shingles
+228. Syphilis
+229. Tetanus
+230. Tuberculosis
+231. Typhoid Fever
+232. West Nile Virus
+233. Yellow Fever
+234. Zika Virus Disease
+
+## Dermatologic Diseases
+235. Acne Vulgaris
+236. Alopecia Areata
+237. Atopic Dermatitis
+238. Basal Cell Carcinoma
+239. Contact Dermatitis
+240. Eczema
+241. Erythema Multiforme
+242. Hidradenitis Suppurativa
+243. Lichen Planus
+244. Melanoma
+245. Pemphigus
+246. Psoriasis
+247. Rosacea
+248. Scabies
+249. Seborrheic Dermatitis
+250. Squamous Cell Carcinoma
+251. Stevens-Johnson Syndrome
+252. Toxic Epidermal Necrolysis
+253. Urticaria
+254. Vitiligo
+
+## Psychiatric Disorders
+255. Acute Stress Disorder
+256. Adjustment Disorder
+257. Anorexia Nervosa
+258. Anxiety Disorders
+259. Attention Deficit Hyperactivity Disorder
+260. Autism Spectrum Disorder
+261. Bipolar Disorder
+262. Borderline Personality Disorder
+263. Bulimia Nervosa
+264. Depression
+265. Generalized Anxiety Disorder
+266. Obsessive-Compulsive Disorder
+267. Panic Disorder
+268. Post-Traumatic Stress Disorder
+269. Schizophrenia
+270. Social Anxiety Disorder
+
+## Genetic Disorders
+271. Angelman Syndrome
+272. Beckwith-Wiedemann Syndrome
+273. Cystic Fibrosis
+274. Down Syndrome
+275. Duchenne Muscular Dystrophy
+276. Ehlers-Danlos Syndrome
+277. Familial Adenomatous Polyposis
+278. Fragile X Syndrome
+279. Gaucher Disease
+280. Huntington's Disease
+281. Klinefelter Syndrome
+282. Marfan Syndrome
+283. Neurofibromatosis
+284. Noonan Syndrome
+285. Prader-Willi Syndrome
+286. Rett Syndrome
+287. Tay-Sachs Disease
+288. Turner Syndrome
+289. Von Hippel-Lindau Disease
+290. Williams Syndrome
+
+## Autoimmune Disorders
+291. Addison's Disease
+292. Antiphospholipid Syndrome
+293. Autoimmune Hepatitis
+294. Behçet's Disease
+295. Celiac Disease
+296. Dermatomyositis
+297. Goodpasture Syndrome
+298. Graves' Disease
+299. Guillain-Barré Syndrome
+300. Hashimoto's Thyroiditis
+301. IgA Nephropathy
+302. Mixed Connective Tissue Disease
+303. Multiple Sclerosis
+304. Myasthenia Gravis
+305. Pemphigus
+306. Polymyositis
+307. Primary Biliary Cirrhosis
+308. Rheumatoid Arthritis
+309. Sjögren's Syndrome
+310. Systemic Lupus Erythematosus
+311. Type 1 Diabetes Mellitus
+312. Vasculitis
+313. Wegener's Granulomatosis
+
+## Metabolic Disorders
+314. Acid-Base Disorders
+315. Acute Intermittent Porphyria
+316. Alkaptonuria
+317. Alpha-1 Antitrypsin Deficiency
+318. Amyloidosis
+319. Carnitine Deficiency
+320. Fabry Disease
+321. Familial Hypercholesterolemia
+322. Galactosemia
+323. Glycogen Storage Diseases
+324. Gout
+325. Hemochromatosis
+326. Homocystinuria
+327. Hyperlipidemia
+328. Lysosomal Storage Diseases
+329. Maple Syrup Urine Disease
+330. Metabolic Syndrome
+331. Mucopolysaccharidoses
+332. Niemann-Pick Disease
+333. Phenylketonuria
+334. Wilson's Disease
+
+## Oncological Diseases
+335. Acute Lymphoblastic Leukemia
+336. Acute Myeloid Leukemia
+337. Adenocarcinoma
+338. Adrenal Cancer
+339. Anal Cancer
+340. Bladder Cancer
+341. Brain Tumors
+342. Breast Cancer
+343. Cervical Cancer
+344. Cholangiocarcinoma
+345. Chronic Lymphocytic Leukemia
+346. Chronic Myeloid Leukemia
+347. Colorectal Cancer
+348. Endometrial Cancer
+349. Esophageal Cancer
+350. Gallbladder Cancer
+351. Gastric Cancer
+352. Gastrointestinal Stromal Tumor
+353. Glioblastoma
+354. Head and Neck Cancer
+355. Hepatocellular Carcinoma
+356. Hodgkin's Lymphoma
+357. Kaposi Sarcoma
+358. Kidney Cancer
+359. Laryngeal Cancer
+360. Liver Cancer
+361. Lung Cancer
+362. Lymphoma
+363. Melanoma
+364. Mesothelioma
+365. Multiple Myeloma
+366. Myelodysplastic Syndrome
+367. Non-Hodgkin Lymphoma
+368. Oral Cancer
+369. Ovarian Cancer
+370. Pancreatic Cancer
+371. Penile Cancer
+372. Pheochromocytoma
+373. Prostate Cancer
+374. Renal Cell Carcinoma
+375. Retinoblastoma
+376. Sarcoma
+377. Skin Cancer
+378. Testicular Cancer
+379. Thyroid Cancer
+380. Uterine Cancer
+
+## Ophthalmological Diseases
+381. Age-Related Macular Degeneration
+382. Amblyopia
+383. Astigmatism
+384. Cataract
+385. Color Blindness
+386. Conjunctivitis
+387. Diabetic Retinopathy
+388. Glaucoma
+389. Hyperopia
+390. Keratitis
+391. Keratoconus
+392. Myopia
+393. Optic Neuritis
+394. Presbyopia
+395. Retinal Detachment
+396. Retinitis Pigmentosa
+397. Strabismus
+398. Uveitis
+
+## Otolaryngological Diseases
+399. Acoustic Neuroma
+400. Acute Otitis Media
+401. Allergic Rhinitis
+402. Chronic Sinusitis
+403. Laryngitis
+404. Mastoiditis
+405. Meniere's Disease
+406. Nasal Polyps
+407. Otosclerosis
+408. Pharyngitis
+409. Tinnitus
+410. Tonsillitis
+411. Vestibular Neuritis
+
+## Reproductive System Disorders
+412. Amenorrhea
+413. Cervical Dysplasia
+414. Dysmenorrhea
+415. Endometriosis
+416. Erectile Dysfunction
+417. Female Infertility
+418. Hypogonadism
+419. Male Infertility
+420. Ovarian Cysts
+421. Pelvic Inflammatory Disease
+422. Polycystic Ovary Syndrome
+423. Premature Ovarian Failure
+424. Prostatitis
+425. Testicular Torsion
+426. Uterine Fibroids
+427. Vaginal Atrophy
+428. Vaginitis
+
+## Dental and Oral Diseases
+429. Amelogenesis Imperfecta
+430. Dental Caries
+431. Gingivitis
+432. Leukoplakia
+433. Oral Cancer
+434. Oral Candidiasis
+435. Periodontitis
+436. Temporomandibular Joint Disorder
+437. Trigeminal Neuralgia
+
+## Pediatric Diseases
+438. Acute Rheumatic Fever
+439. Attention Deficit Hyperactivity Disorder
+440. Autism Spectrum Disorders
+441. Bronchiolitis
+442. Childhood Asthma
+443. Congenital Heart Defects
+444. Croup
+445. Developmental Delays
+446. Failure to Thrive
+447. Kawasaki Disease
+448. Neuroblastoma
+449. Osteogenesis Imperfecta
+450. Respiratory Syncytial Virus
+451. Roseola
+452. Scarlet Fever
+453. Sudden Infant Death Syndrome
+454. Wilms Tumor
+
+## Sleep Disorders
+455. Central Sleep Apnea
+456. Delayed Sleep Phase Syndrome
+457. Insomnia
+458. Narcolepsy
+459. Night Terrors
+460. Obstructive Sleep Apnea
+461. Periodic Limb Movement Disorder
+462. Restless Legs Syndrome
+463. Sleep Paralysis
+464. Sleepwalking
+
+## Parasitic Diseases
+465. Amebiasis
+466. Ascariasis
+467. Babesiosis
+468. Chagas Disease
+469. Cryptosporidiosis
+470. Cysticercosis
+471. Echinococcosis
+472. Enterobiasis
+473. Fascioliasis
+474. Filariasis
+475. Giardiasis
+476. Hookworm Infection
+477. Leishmaniasis
+478. Malaria
+479. Onchocerciasis
+480. Schistosomiasis
+481. Strongyloidiasis
+482. Tapeworm Infection
+483. Toxoplasmosis
+484. Trichinosis
+
+## Occupational Diseases
+485. Asbestosis
+486. Berylliosis
+487. Byssinosis
+488. Carpal Tunnel Syndrome
+489. Coal Workers' Pneumoconiosis
+490. Contact Dermatitis
+491. Lead Poisoning
+492. Mercury Poisoning
+493. Occupational Asthma
+494. Repetitive Strain Injury
+495. Silicosis
+496. Vibration White Finger
+
+## Rare Diseases
+497. Acromegaly
+498. Addison's Disease
+499. Alport Syndrome
+500. Amyloidosis
+
+
+## Rare Diseases (continued)
+501. Angelman Syndrome
+502. Apert Syndrome
+503. Batten Disease
+504. Bechet's Disease
+505. Bloom Syndrome
+506. Canavan Disease
+507. Charcot-Marie-Tooth Disease
+508. Cockayne Syndrome
+509. Crigler-Najjar Syndrome
+510. Cushing's Disease
+511. DiGeorge Syndrome
+512. Dubin-Johnson Syndrome
+513. Fabry Disease
+514. Familial Mediterranean Fever
+515. Fanconi Anemia
+516. Fatal Familial Insomnia
+517. Fibrodysplasia Ossificans Progressiva
+518. Gaucher Disease
+519. Gilbert Syndrome
+520. Hallervorden-Spatz Disease
+521. Hereditary Hemorrhagic Telangiectasia
+522. Huntington's Disease
+523. Hurler Syndrome
+524. Kartagener Syndrome
+525. Klinefelter Syndrome
+526. Krabbe Disease
+527. Li-Fraumeni Syndrome
+528. Liddle Syndrome
+529. McCune-Albright Syndrome
+530. Menkes Disease
+531. Morquio Syndrome
+532. Niemann-Pick Disease
+533. Osteogenesis Imperfecta
+534. Pendred Syndrome
+535. Peutz-Jeghers Syndrome
+536. Pompe Disease
+537. Proteus Syndrome
+538. Rett Syndrome
+539. Sanfilippo Syndrome
+540. Sturge-Weber Syndrome
+541. Tangier Disease
+542. Tay-Sachs Disease
+543. Turner Syndrome
+544. Von Hippel-Lindau Disease
+545. Werner Syndrome
+546. Wolfram Syndrome
+547. Xeroderma Pigmentosum
+548. Yellow Nail Syndrome
+549. Zellweger Syndrome
+
+## Immunological Disorders
+550. Acquired Immunodeficiency Syndrome (AIDS)
+551. Agammaglobulinemia
+552. Autoimmune Lymphoproliferative Syndrome
+553. Bare Lymphocyte Syndrome
+554. Chronic Granulomatous Disease
+555. Common Variable Immunodeficiency
+556. Complement Deficiency
+557. DiGeorge Syndrome
+558. Griscelli Syndrome
+559. Hereditary Angioedema
+560. Hyper-IgE Syndrome
+561. Hyper-IgM Syndrome
+562. IgA Deficiency
+563. Immunodeficiency with Hyper-IgM
+564. Job Syndrome
+565. Leukocyte Adhesion Deficiency
+566. Omenn Syndrome
+567. Severe Combined Immunodeficiency
+568. Specific Antibody Deficiency
+569. Wiskott-Aldrich Syndrome
+570. X-linked Agammaglobulinemia
+
+## Vascular Disorders
+571. Abdominal Aortic Aneurysm
+572. Acrocyanosis
+573. Arteriovenous Malformation
+574. Buerger's Disease
+575. Cerebral Aneurysm
+576. Chronic Venous Insufficiency
+577. Cutaneous Vasculitis
+578. Erythromelalgia
+579. Giant Cell Arteritis
+580. Henoch-Schönlein Purpura
+581. Kawasaki Disease
+582. Klippel-Trenaunay Syndrome
+583. Leriche Syndrome
+584. Lymphangitis
+585. Microscopic Polyangiitis
+586. Polyarteritis Nodosa
+587. Raynaud's Disease
+588. Takayasu's Arteritis
+589. Temporal Arteritis
+590. Thromboangiitis Obliterans
+
+## Bone and Joint Disorders
+591. Achondroplasia
+592. Ankylosing Spondylitis
+593. Avascular Necrosis
+594. Bone Cancer
+595. Bursitis
+596. Chondromalacia Patella
+597. Diffuse Idiopathic Skeletal Hyperostosis
+598. Ehlers-Danlos Syndrome
+599. Fibrous Dysplasia
+600. Giant Cell Tumor
+601. Hyperostosis
+602. Juvenile Idiopathic Arthritis
+603. Kyphosis
+604. Lordosis
+605. Marfan Syndrome
+606. Osgood-Schlatter Disease
+607. Osteitis Deformans
+608. Osteochondritis Dissecans
+609. Osteogenesis Imperfecta
+610. Osteomalacia
+611. Osteomyelitis
+612. Osteopetrosis
+613. Osteosarcoma
+614. Paget's Disease
+615. Palindromic Rheumatism
+616. Patellofemoral Pain Syndrome
+617. Psoriatic Arthritis
+618. Reiter's Syndrome
+619. Scoliosis
+620. Synovitis
+
+## Digestive System Disorders
+621. Achalasia
+622. Anal Fissure
+623. Anal Fistula
+624. Barrett's Esophagus
+625. Bile Duct Cancer
+626. Biliary Atresia
+627. Carcinoid Syndrome
+628. Celiac Disease
+629. Chronic Functional Abdominal Pain
+630. Collagenous Colitis
+631. Crohn's Disease
+632. Cyclic Vomiting Syndrome
+633. Diverticulitis
+634. Duodenal Ulcer
+635. Dysphagia
+636. Eosinophilic Esophagitis
+637. Esophageal Cancer
+638. Esophageal Motility Disorders
+639. Esophageal Stricture
+640. Fecal Incontinence
+641. Gallbladder Disease
+642. Gastric Polyps
+643. Gastric Ulcer
+644. Gastroparesis
+645. Hemorrhoids
+646. Hepatic Adenoma
+647. Hepatic Hemangioma
+648. Hepatitis A
+649. Hepatitis B
+650. Hepatitis C
+651. Hepatitis D
+652. Hepatitis E
+653. Hereditary Hemochromatosis
+654. Hiatal Hernia
+655. Hirschsprung's Disease
+656. Intestinal Ischemia
+657. Intestinal Polyps
+658. Irritable Bowel Syndrome
+659. Lymphocytic Colitis
+660. Mallory-Weiss Tear
+661. Meckel's Diverticulum
+662. Mesenteric Adenitis
+663. Microscopic Colitis
+664. Nonalcoholic Fatty Liver Disease
+665. Pancreatic Cancer
+666. Pancreatic Insufficiency
+667. Peptic Ulcer Disease
+668. Peritonitis
+669. Portal Vein Thrombosis
+670. Primary Biliary Cholangitis
+
+## Endocrine System Disorders
+671. Acromegaly
+672. Adrenal Insufficiency
+673. Androgen Insensitivity Syndrome
+674. Autoimmune Polyglandular Syndrome
+675. Carcinoid Syndrome
+676. Conn's Syndrome
+677. Cushing's Syndrome
+678. Diabetes Insipidus
+679. Empty Sella Syndrome
+680. Goiter
+681. Growth Hormone Deficiency
+682. Hashimoto's Thyroiditis
+683. Hyperaldosteronism
+684. Hypercalcemia
+685. Hyperparathyroidism
+686. Hyperprolactinemia
+687. Hyperthyroidism
+688. Hypogonadism
+689. Hypoparathyroidism
+690. Hypopituitarism
+691. Hypothyroidism
+692. McCune-Albright Syndrome
+693. Multiple Endocrine Neoplasia Type 1
+694. Multiple Endocrine Neoplasia Type 2
+695. Pheochromocytoma
+696. Polyglandular Autoimmune Syndrome
+697. Sheehan's Syndrome
+698. Thyroid Nodules
+699. Thyroiditis
+700. Zollinger-Ellison Syndrome
+
+## Respiratory System Disorders
+701. Acute Bronchitis
+702. Acute Respiratory Distress Syndrome
+703. Alpha-1 Antitrypsin Deficiency
+704. Asbestosis
+705. Aspergillosis
+706. Bronchiectasis
+707. Bronchiolitis
+708. Bronchiolitis Obliterans
+709. Bronchopulmonary Dysplasia
+710. Chronic Bronchitis
+711. Chronic Obstructive Pulmonary Disease
+712. Cystic Fibrosis
+713. Empyema
+714. Eosinophilic Pneumonia
+715. Goodpasture's Syndrome
+716. Hemothorax
+717. Hypersensitivity Pneumonitis
+718. Idiopathic Pulmonary Fibrosis
+719. Interstitial Lung Disease
+720. Kartagener Syndrome
+721. Lung Abscess
+722. Lung Cancer
+723. Mediastinitis
+724. Mesothelioma
+725. Non-Small Cell Lung Cancer
+726. Pleural Effusion
+727. Pneumoconiosis
+728. Pneumocystis Pneumonia
+729. Pneumomediastinum
+730. Pneumothorax
+731. Pulmonary Alveolar Proteinosis
+732. Pulmonary Arterial Hypertension
+733. Pulmonary Edema
+734. Pulmonary Embolism
+735. Respiratory Syncytial Virus Infection
+736. Sarcoidosis
+737. Silicosis
+738. Sleep Apnea
+739. Small Cell Lung Cancer
+740. Tuberculosis
+
+## Nervous System Disorders
+741. Acoustic Neuroma
+742. Amyotrophic Lateral Sclerosis
+743. Arnold-Chiari Malformation
+744. Ataxia Telangiectasia
+745. Bell's Palsy
+746. Benign Essential Tremor
+747. Brain Abscess
+748. Brain Tumor
+749. Cavernous Malformation
+750. Central Pain Syndrome
+751. Cerebral Aneurysm
+752. Cerebral Palsy
+753. Charcot-Marie-Tooth Disease
+754. Chronic Inflammatory Demyelinating Polyneuropathy
+755. Complex Regional Pain Syndrome
+756. Craniopharyngioma
+757. Creutzfeldt-Jakob Disease
+758. Dermatomyositis
+759. Diabetic Neuropathy
+760. Encephalitis
+761. Epilepsy
+762. Essential Tremor
+763. Friedreich's Ataxia
+764. Guillain-Barré Syndrome
+765. Hereditary Spastic Paraplegia
+766. Huntington's Disease
+767. Hydrocephalus
+768. Inclusion Body Myositis
+769. Kennedy's Disease
+770. Lambert-Eaton Myasthenic Syndrome
+771. Machado-Joseph Disease
+772. Meningitis
+773. Motor Neuron Disease
+774. Multiple Sclerosis
+775. Multiple System Atrophy
+776. Muscular Dystrophy
+777. Myasthenia Gravis
+778. Myelitis
+779. Narcolepsy
+780. Neurofibromatosis
+
+## Mental Health Disorders
+781. Acute Stress Disorder
+782. Adjustment Disorder
+783. Agoraphobia
+784. Alcohol Use Disorder
+785. Anorexia Nervosa
+786. Antisocial Personality Disorder
+787. Anxiety Disorders
+788. Attention Deficit Hyperactivity Disorder
+789. Autism Spectrum Disorder
+790. Avoidant Personality Disorder
+791. Bipolar Disorder
+792. Body Dysmorphic Disorder
+793. Borderline Personality Disorder
+794. Bulimia Nervosa
+795. Conversion Disorder
+796. Cyclothymic Disorder
+797. Delusional Disorder
+798. Dependent Personality Disorder
+799. Depression
+800. Dissociative Identity Disorder
+801. Eating Disorders
+802. Factitious Disorder
+803. Gambling Disorder
+804. Gender Dysphoria
+805. Generalized Anxiety Disorder
+806. Histrionic Personality Disorder
+807. Hoarding Disorder
+808. Hypochondriasis
+809. Major Depressive Disorder
+810. Narcissistic Personality Disorder
+811. Obsessive-Compulsive Disorder
+812. Panic Disorder
+813. Paranoid Personality Disorder
+814. Persistent Depressive Disorder
+815. Post-Traumatic Stress Disorder
+816. Premenstrual Dysphoric Disorder
+817. Schizoaffective Disorder
+818. Schizoid Personality Disorder
+819. Schizophrenia
+820. Social Anxiety Disorder
+
+## Blood Disorders
+821. Acute Lymphoblastic Leukemia
+822. Acute Myeloid Leukemia
+823. Anemia
+824. Aplastic Anemia
+825. Bernard-Soulier Syndrome
+826. Beta Thalassemia
+827. Chronic Lymphocytic Leukemia
+828. Chronic Myeloid Leukemia
+829. Cold Agglutinin Disease
+830. Diamond-Blackfan Anemia
+831. Disseminated Intravascular Coagulation
+832. Essential Thrombocythemia
+833. Factor V Leiden
+834. Fanconi Anemia
+835. Glucose-6-Phosphate Dehydrogenase Deficiency
+836. Hairy Cell Leukemia
+837. Hemolytic Anemia
+838. Hemophilia A
+839. Hemophilia B
+840. Iron Deficiency Anemia
+841. Megaloblastic Anemia
+842. Multiple Myeloma
+843. Myelodysplastic Syndrome
+844. Myelofibrosis
+845. Paroxysmal Nocturnal Hemoglobinuria
+846. Pernicious Anemia
+847. Polycythemia Vera
+848. Protein C Deficiency
+849. Protein S Deficiency
+850. Purpura
+
+## Skin Disorders
+851. Acne Vulgaris
+852. Alopecia Areata
+853. Atopic Dermatitis
+854. Basal Cell Carcinoma
+855. Bullous Pemphigoid
+856. Contact Dermatitis
+857. Dermatomyositis
+858. Dermatofibroma
+859. Epidermolysis Bullosa
+860. Erythema Multiforme
+861. Erythema Nodosum
+862. Hidradenitis Suppurativa
+863. Ichthyosis
+864. Impetigo
+865. Keloid
+866. Keratosis Pilaris
+867. Lichen Planus
+868. Lupus Erythematosus
+869. Melanoma
+870. Molluscum Contagiosum
+871. Pemphigus
+872. Pityriasis Rosea
+873. Psoriasis
+874. Rosacea
+875. Scabies
+876. Seborrheic Dermatitis
+877. Squamous Cell Carcinoma
+878. Stevens-Johnson Syndrome
+879. Toxic Epidermal Necrolysis
+880. Vitiligo
+
+## Urinary System Disorders
+881. Acute Kidney Injury
+882. Alport Syndrome
+883. Bartter Syndrome
+884. Bladder Cancer
+885. Cystitis
+886. Diabetic Nephropathy
+887. Focal Segmental Glomerulosclerosis
+888. Gitelman Syndrome
+889. Glomerulonephritis
+890. Goodpasture Syndrome
+891. Hydronephrosis
+892. IgA Nephropathy
+893. Interstitial Cystitis
+894. Kidney Cancer
+895. Kidney Stones
+896. Lupus Nephritis
+897. Medullary Sponge Kidney
+898. Membranous Nephrop  
+
+
+899. Minimal Change Disease
+900. Nephritic Syndrome
+901. Nephrotic Syndrome
+902. Neurogenic Bladder
+903. Polycystic Kidney Disease
+904. Pyelonephritis
+905. Renal Artery Stenosis
+906. Renal Cell Carcinoma
+907. Renal Tubular Acidosis
+908. Urethritis
+
+## Reproductive System Disorders (Extended)
+909. Adenomyosis
+910. Asherman's Syndrome
+911. Bacterial Vaginosis
+912. Cervical Cancer
+913. Cryptorchidism
+914. Ectopic Pregnancy
+915. Endometrial Cancer
+916. Epididymitis
+917. Erectile Dysfunction
+918. Fallopian Tube Cancer
+919. Female Sexual Arousal Disorder
+920. Genital Herpes
+921. Genital Warts
+922. Hydrocele
+923. Hyperemesis Gravidarum
+924. Hyperprolactinemia
+925. Klinefelter Syndrome
+926. Lichen Sclerosus
+927. Male Infertility
+928. Mullerian Agenesis
+929. Orchitis
+930. Ovarian Cancer
+931. Ovarian Cysts
+932. Peyronie's Disease
+933. Placenta Previa
+934. Placental Abruption
+935. Preeclampsia
+936. Premature Ovarian Failure
+937. Premenstrual Syndrome
+938. Prostate Cancer
+939. Prostatitis
+940. Testicular Cancer
+941. Testicular Torsion
+942. Turner Syndrome
+943. Uterine Fibroids
+944. Uterine Prolapse
+945. Vaginal Cancer
+946. Vaginismus
+947. Varicocele
+948. Vulvar Cancer
+949. Vulvodynia
+
+## Developmental Disorders (Extended)
+950. Angelman Syndrome
+951. Asperger Syndrome
+952. Attention Deficit Disorder
+953. Autism
+954. Cerebral Palsy
+955. Childhood Disintegrative Disorder
+956. Down Syndrome
+957. Dyslexia
+958. Fragile X Syndrome
+959. Global Developmental Delay
+960. Learning Disabilities
+961. Pervasive Developmental Disorder
+962. Prader-Willi Syndrome
+963. Rett Syndrome
+964. Specific Language Impairment
+965. Williams Syndrome
+
+## Toxic and Environmental Disorders
+966. Acute Radiation Syndrome
+967. Arsenic Poisoning
+968. Carbon Monoxide Poisoning
+969. Chemical Burns
+970. Decompression Sickness
+971. Electric Shock
+972. Food Poisoning
+973. Frostbite
+974. Heat Exhaustion
+975. Heat Stroke
+976. Heavy Metal Poisoning
+977. High Altitude Cerebral Edema
+978. High Altitude Pulmonary Edema
+979. Lead Poisoning
+980. Mercury Poisoning
+981. Organophosphate Poisoning
+982. Radiation Sickness
+983. Snake Bite
+984. Spider Bite
+985. Toxic Shock Syndrome
+
+## Miscellaneous Disorders
+986. Altitude Sickness
+987. Chronic Fatigue Syndrome
+988. Complex Regional Pain Syndrome
+989. Delirium
+990. Factitious Disorder
+991. Fibromyalgia
+992. Geographic Tongue
+993. Chronic Pain Syndrome
+994. Munchausen Syndrome
+995. Necrotizing Fasciitis
+996. Phantom Limb Pain
+997. Post-Viral Fatigue Syndrome
+998. Reflex Sympathetic Dystrophy
+999. Systemic Inflammatory Response Syndrome
+1000. Yellow Fever
+
+
